@@ -983,10 +983,4 @@ h1, h2, h3, h4, h5, h6 {
   background: transparent;
   border: 2px solid #ff3b30; }
 
-#div-logo {
-  background: url("../images/logo.png");
-  background-size: 100px;
-  height: auto;
-  width: auto; }
-
 /*# sourceMappingURL=style.css.map */

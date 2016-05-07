@@ -1,4 +1,4 @@
-$font-primary: 'PT Sans', Arial, serif;
+$font-primary: "PingFangSC-Regular", "Hiragino Sans GB", "microsoft yahei", helvetica, arial, sans-serif !important ;
 
 // Overrides
 $grid-gutter-width: 40px !default; 
@@ -1385,4 +1385,11 @@ h1, h2, h3, h4, h5, h6 {
 			border: 2px solid $brand-primary;
 		}
 	}
+}
+
+#div-logo{
+  background: url("../images/logo.png");
+  background-size: 100px;
+  height: auto;
+  width: auto;
 }
