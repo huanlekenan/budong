@@ -409,12 +409,10 @@ h1, h2, h3, h4, h5, h6 {
         text-decoration: none; }
 
 .getting-started {
-  background: #1fb5f6;
+  background: #f1f1f1;
   padding: 60px 0 40px 0; }
   .getting-started h3 {
-    color: #fff; }
-  .getting-started p {
-    color: rgba(255, 255, 255, 0.8); }
+    text-align: center; }
   .getting-started .call-to-action {
     display: block;
     width: 100%;

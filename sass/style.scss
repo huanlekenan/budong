@@ -656,17 +656,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .getting-started{
-	background: $brand-secondary;
+	//background: $brand-secondary;
+	background: $brand-body-color;
 	padding: 60px 0 40px 0;
 
 	h3{
-		color: $brand-white;
+	//	color: $brand-white;
+	  	text-align: center;
 	}
 
-	p{
-		// color: darken($brand-white, 10%) !important;
-		color: rgba(255,255,255,.8);
-	}
+	//p{
+	//	// color: darken($brand-white, 10%) !important;
+	//	color: rgba(255,255,255,.8);
+	//}
 
 	.call-to-action{
 		display: block;
